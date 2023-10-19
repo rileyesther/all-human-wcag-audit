@@ -1,7 +1,7 @@
 # Lighthouse Analyse van de NS Website
 
 
-![Lighthouse](lighthouse.jpg)
+<img src="lighthouse.jpg" alt="Lighthouse">
 
 
 
