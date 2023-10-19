@@ -1,6 +1,7 @@
 # Lighthouse Analyse van de NS Website
 
-## Problemen Geïdentificeerd:
+
+## Problemen die zijn gevonden:
 
 ### 1. Ongeldige Waarden in [aria-*] Attributen
    - **Probleem**: De NS-website bevat [aria-*] attributen met ongeldige waarden.
