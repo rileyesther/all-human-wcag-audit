@@ -1,10 +1,6 @@
 # Lighthouse Analyse van de NS Website
 
 
-<img src="lighthouse.jpg" alt="Lighthouse">
-
-
-
 
 ## Problemen die zijn gevonden:
 
@@ -27,3 +23,6 @@
 ## Conclusie:
 
 De Lighthouse-analyse van de NS-website heeft meerdere toegankelijkheids- en responsieve ontwerpproblemen aan het licht gebracht. Het oplossen van deze problemen zal de algehele gebruikerservaring verbeteren en zorgen voor een meer toegankelijke en gebruiksvriendelijke website.
+
+
+<img src="https://i.imgur.com/vWrzYks.png" width="800">
