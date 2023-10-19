@@ -1,6 +1,11 @@
 # Lighthouse Analyse van de NS Website
 
 
+![Lighthouse](lighthouse.jpg)
+
+
+
+
 ## Problemen die zijn gevonden:
 
 ### 1. Ongeldige Waarden in [aria-*] Attributen
