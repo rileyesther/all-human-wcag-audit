@@ -29,7 +29,7 @@ De grondige analyse van de NS-website met behulp van Lighthouse heeft verschille
 
 <img src="https://i.imgur.com/vWrzYks.png" width="800">
 
-## Andere Gedane Tests
+## Andere Testen die ik heb gedaan
 
 ### De Keyboard Test
 
