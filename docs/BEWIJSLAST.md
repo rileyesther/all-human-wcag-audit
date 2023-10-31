@@ -28,3 +28,21 @@ De grondige analyse van de NS-website met behulp van Lighthouse heeft verschille
 
 
 <img src="https://i.imgur.com/vWrzYks.png" width="800">
+
+## Andere Gedane Tests
+
+### De Keyboard Test
+
+Het is opmerkelijk dat bij het gebruik van de "Tab" toets de gehele website nauwkeurig doorlopen kan worden, van het logo tot het inloggen en zelfs tot aan de footer.
+
+### De Screen Reader Test
+
+In de screen reader test is vastgesteld dat de knoppen geen toegankelijke namen hebben, wat resulteert in een verminderde begrijpelijkheid of soms zelfs het volledig ontbreken van knopinformatie.
+
+### Interactive Elements Test
+
+De NS-website heeft een doordacht design, met een goede contrastverhouding en een duidelijke gebruikersstroom. Bij het openen van de website wordt de reisplanner direct gepresenteerd, wat de gebruiker onmiddellijk laat begrijpen wat het doel is en hoe dit te bereiken is.
+
+### Headings and Landmarks Test
+
+De uitgebreide ```<div>``` modules maken de website enigszins complex. De opbouw met ```<header>```, ```<main>```, en ```<footer>``` is duidelijk, maar de rest van de HTML-structuur lijkt verward door complexe benamingen en methodes, waardoor de algehele HTML-structuur minder overzichtelijk wordt. Het kan nuttig zijn om de namen en de methoden te vereenvoudigen voor een betere structuur.
